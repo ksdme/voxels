@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/experience-noob-232CA5E0.svg)  `Made with 💙 using MagicaVoxel`
+![](https://img.shields.io/badge/experience-noob-232CA5E0.svg) ![](https://img.shields.io/badge/count-1-green.svg)
+ `Made with 💙 using MagicaVoxel`
 ~~~
 Castle: https://github.com/ksdme/voxels/tree/master/castle
 ~~~
