@@ -1,5 +1,9 @@
 `Made with 💙  using  MagicaVoxel`
 
+![Angular Shot](https://github.com/ksdme/voxels/raw/master/castle/shots/angluar.png  "Castle")
+
+![Side Shot](https://github.com/ksdme/voxels/raw/master/castle/shots/side.png) 
+
 ~~~
 Copyright (c) 2017 Kilari Teja
 
