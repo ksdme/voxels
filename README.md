@@ -1,8 +1,12 @@
-![](https://img.shields.io/badge/experience-noob-232CA5E0.svg) ![](https://img.shields.io/badge/count-1-green.svg) ![](https://img.shields.io/badge/Made%20with%20%F0%9F%92%99%20using-MagicaVoxel-blue.svg)   
+![](https://img.shields.io/badge/experience-noob-232CA5E0.svg) ![](https://img.shields.io/badge/count-1-green.svg) ![](https://img.shields.io/badge/partial-1-yellow.svg)  ![](https://img.shields.io/badge/Made%20with%20%F0%9F%92%99%20using-MagicaVoxel-blue.svg)   
 ~~~
 Castle: https://github.com/ksdme/voxels/tree/master/castle
 ~~~
 ![](https://github.com/ksdme/voxels/raw/master/castle/shots/angluar.png)
+
+~~~
+Monu: [Partial]
+~~~
 
 ~~~
 Copyright (c) 2017 Kilari Teja
